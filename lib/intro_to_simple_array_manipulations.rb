@@ -34,5 +34,6 @@ def using_insert(list_of_esoteric_programming_languages, another_esoteric_langua
   list_of_esoteric_programming_languages.insert(4, another_esoteric_language)
 end
 
-def using_uniq 
+def using_uniq(captain_planet_and_the_planeteers)
+  new_array = captain_planet_and_the_planeteers()
   
