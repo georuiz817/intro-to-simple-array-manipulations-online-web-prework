@@ -38,5 +38,6 @@ def using_uniq(captain_planet_and_the_planeteers)
   new_array = captain_planet_and_the_planeteers.uniq
 end  
 
-def using_flatten(private_colleges_in_n)
+def using_flatten(private_colleges_in_newyork)
+  flat_array = private_colleges_in_newyork.flatten
   
