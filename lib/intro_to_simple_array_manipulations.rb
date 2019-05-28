@@ -42,7 +42,7 @@ def using_flatten(private_colleges_in_newyork)
   flat_array = private_colleges_in_newyork.flatten
 end
 
-def using_delete(instructors, "steven")
-  no_offense_steven = instructors.delete("steven")
+def using_delete(instructors, steven)
+  no_offense_steven = instructors.delete(steven)
 end
   
